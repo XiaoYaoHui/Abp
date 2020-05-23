@@ -1,0 +1,20 @@
+{
+  //"iisSettings": {
+  //  "windowsAuthentication": false,
+  //  "anonymousAuthentication": true,
+  //  "iisExpress": {
+  //    "applicationUrl": "http://localhost:8099/",
+  //    "sslPort": 44368
+  //  }
+  //},
+  "profiles": {
+    "Acme.BookStore.Web": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:8099/"
+    }
+  }
+}
